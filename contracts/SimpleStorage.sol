@@ -23,7 +23,7 @@ contract SimpleStorage {
     //It's better to be explicit white passing the arguments to function
     // Person public tamir = Person({favoriteNumber: 23, name: "Tamir"});
 
-    function store(uint256 _favoriteNumber) public {
+    function store(uint256 _favoriteNumber) public virtual {
         myFavoriteNumber = _favoriteNumber;
     }
 
