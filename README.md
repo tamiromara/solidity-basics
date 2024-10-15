@@ -1,3 +1,5 @@
+![Alt text](developers-eth-blocks.62390e1a.png)
+
 # Solidity Basics
 
 Welcome to the **Solidity Basics** repository! This is part of my **#90DaysOfSolidity** learning journey, where I will be uploading code on a daily basis as I learn and practice Solidity, the programming language for writing smart contracts on the Ethereum blockchain.
@@ -21,3 +23,6 @@ I'm currently consuming Cyfrin Foundry learning materials on blockchain and soli
 Please have a look at Cyfrin Updraft page on Githut here. You can also check their interactive learning platform at [updraft.cyfrin.io](https://updraft.cyfrin.io)
 ## Get In Touch
 I can be found on both [Linkedin](https://www.linkedin.com/in/tamiromara/) and [X(foremely Twitter)](https://x.com/tamiromara)
+
+## Disclaimer
+Header image obtained from [Ethereum officila website](https://ethereum.org/en/assets/)
